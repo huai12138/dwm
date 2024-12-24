@@ -11,7 +11,7 @@ static const char *fonts[]          = { "monospace:size=10" };
 static const char dmenufont[]       = "monospace:size=10";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
-static const char col_gray3[]       = "#ffffffb";
+static const char col_gray3[]       = "#ffffff";
 static const char col_gray4[]       = "#eeeeee";
 static const char col_cyan[]        = "#00ff00";
 static const unsigned int baralpha = 0x7f;
