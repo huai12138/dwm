@@ -42,6 +42,7 @@ static const Rule rules[] = {
         { "org.remmina.Remmina",  NULL,       NULL,       1 << 2,       0,           -1 },
         { "xfreerdp",  NULL,       NULL,       1 << 2,       0,           -1 },
         { "steam",  NULL,       NULL,       1 << 5,       0,           -1 },
+        { "Alacritty",  NULL,       NULL,       1 << 3,       0,           -1 },
 };
 
 /* layout(s) */
