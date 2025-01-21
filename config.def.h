@@ -41,6 +41,7 @@ static const Rule rules[] = {
         { "TelegramDesktop",  NULL,       NULL,       1 << 1,       0,           -1 },
         { "org.remmina.Remmina",  NULL,       NULL,       1 << 2,       0,           -1 },
         { "xfreerdp",  NULL,       NULL,       1 << 2,       0,           -1 },
+        { "steam",  NULL,       NULL,       1 << 5,       0,           -1 },
 };
 
 /* layout(s) */
